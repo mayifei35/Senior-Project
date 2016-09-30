@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yifei/Documents/sp/ale/doc/examples/fifoInterfaceExample.cpp
+iostream
+-
+string
+-
+cstring
+-
+vector
+-
+cstdio
+-
+cstdlib
+-
+
