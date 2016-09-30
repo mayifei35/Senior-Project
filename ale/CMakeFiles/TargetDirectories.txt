@@ -1,7 +1,0 @@
-/home/yifei/Documents/sp/ale/CMakeFiles/ale-bin.dir
-/home/yifei/Documents/sp/ale/CMakeFiles/ale-c-lib.dir
-/home/yifei/Documents/sp/ale/CMakeFiles/ale-lib.dir
-/home/yifei/Documents/sp/ale/CMakeFiles/fifoInterfaceExample.dir
-/home/yifei/Documents/sp/ale/CMakeFiles/sharedLibraryInterfaceExample.dir
-/home/yifei/Documents/sp/ale/CMakeFiles/uninstall.dir
-/home/yifei/Documents/sp/ale/CMakeFiles/videoRecordingExample.dir
