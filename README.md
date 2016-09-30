@@ -1,12 +1,17 @@
-# Senior-Project
+<snippet>
+<content><![CDATA[
+# ${1:Senior Project}
 
-  Supported included roms that are supported by the fram work. Not including dig dug.
+# Files
+
+  Supported includes roms that are supported by the fram work. It does not include dig dug or Mario.
 Tested using python interface.
 
-  ALE is the learning enviroment framwork.pyrhon interface was tested.
-
+  
 
 # Running
-Follow instructions on installing ALE from https://github.com/mgbellemare/Arcade-Learning-Environment
-Copy and paste one game from the surppoted folder to ALE/doc/examples
-Run command   python python_example.py gamename
+  Things you need to run: Arcade learning enviroment
+  Follow instructions on installing ALE from https://github.com/mgbellemare/Arcade-Learning-Environment
+  Copy and paste one game from the surppoted folder to ALE/doc/examples
+  Run command   
+        python python_example.py gamename
